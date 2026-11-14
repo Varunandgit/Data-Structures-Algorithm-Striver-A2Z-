@@ -1,6 +1,5 @@
 two things to learn here , how do you find a divisior and how do you actually difne a array and vector 
---------------------------------------------------------------------------
-
+    
 class Solution {
 public:
     vector<int> divisors(int n) {
